@@ -20,7 +20,7 @@
 ;ExitProcess proto,dwExitCode:dword
 
 .data
-
+	array BYTE 'a', 'a', 'a', ' ', 'b', 'b', 'b'
 	
 .code
 
